@@ -814,7 +814,7 @@ header .navbar ul li a:hover {
   top: 22px;
   width: 0;
   z-index: 1;
-  right: 30px;
+  right: 30.5px;
   border: medium solid #f68c09;
   border-width: 10px 0 10px 10px;
   border-color: transparent transparent transparent #f68c09;
