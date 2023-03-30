@@ -69,16 +69,7 @@
       "code": "https://github.com/jigar-sable/resumegen"
     }
   },
-  {
-    "name": "Temperature Convertor",
-    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
-    "image": "tempconv",
-    "category": "webApps basicweb",
-    "links": {
-      "view": "https://reactjsprojects.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/React-Projects"
-    }
-  },
+  
   {
     "name": "Portfolio Website",
     "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
@@ -137,6 +128,16 @@
     "links": {
       "view": "#",
       "code": "https://github.com/jigar-sable/Portfolio-Website"
+    }
+  },
+  {
+    "name": "Temperature Convertor",
+    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
+    "image": "tempconv",
+    "category": "webApps basicweb",
+    "links": {
+      "view": "https://reactjsprojects.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/React-Projects"
     }
   },
   {
