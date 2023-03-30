@@ -1,283 +1,283 @@
 [
   {
     "name": "Audi R8",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "desc": "Copyright By Raj Kumar",
     "image": "audiR8",
     "category": "commercial",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/notystack-android"
+      "view": "https://raj03kumar.github.io/audiR8/",
+      "code": "#"
     }
   },
   {
     "name": "Clime Weather",
-    "desc": "All in one SPPU Engineering resources. Built using Java, XML and Firebase.",
+    "desc": "Copyright By Raj Kumar",
     "image": "climeweather",
     "category": "nature",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/sppu-prep-android"
+      "view": "https://raj03kumar.github.io/clime-weather/",
+      "code": "#"
     }
   },
   {
     "name": "Coffee Shop",
-    "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
+    "desc": "Copyright By Raj Kumar",
     "image": "coffeeshop",
     "category": "commercial",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/newsbox-android"
+      "view": "https://raj03kumar.github.io/coldnbrew/",
+      "code": "#"
     }
   },
   {
     "name": "NFT MARKETPLACE",
-    "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
+    "desc": "Copyright By Raj Kumar",
     "image": "nftmarket",
     "category": "commercial",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/weatherly-android"
+      "view": "https://raj03kumar.github.io/NFT-Marketplace/",
+      "code": "#"
     }
   },
   {
     "name": "Real Estate Website",
-    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
+    "desc": "Copyright By Raj Kumar",
     "image": "realestate",
     "category": "commercial agency",
     "links": {
-      "view": "https://instagramernstack.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/instagram-mern"
+      "view": "https://raj03kumar.github.io/real-estate-website/",
+      "code": "#"
     }
   },
   {
     "name": "StarWars Store",
-    "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
+    "desc": "Copyright By Raj Kumar",
     "image": "starwars",
     "category": "commercial",
     "links": {
-      "view": "https://flipkartwebs.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/flipkart-mern"
+      "view": "https://raj03kumar.github.io/starwars/",
+      "code": "#"
     }
   },
   {
     "name": "WestJet Airlines",
-    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
+    "desc": "Copyright By Raj Kumar",
     "image": "westjet",
     "category": "commercial",
     "links": {
-      "view": "https://resumegenx.netlify.app/",
-      "code": "https://github.com/jigar-sable/resumegen"
+      "view": "https://raj03kumar.github.io/Westjet-airlines/",
+      "code": "#"
     }
   },
   
   {
     "name": "Portfolio Website",
-    "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
+    "desc": "Copyright By Raj Kumar",
     "image": "rkdribbleportfolio",
     "category": "portfolio",
     "links": {
-      "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP",
-      "code": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
+      "view": "https://raj03kumar.github.io/Rk-dribble/",
+      "code": "#"
     }
   },
   {
     "name": "Nike Store",
-    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
+    "desc": "Copyright By Raj Kumar",
     "image": "nikestore",
     "category": "commercial shoes",
     "links": {
-      "view": "https://jigar-sable.github.io/JavaScript-Projects",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects"
+      "view": "https://raj03kumar.github.io/nike/",
+      "code": "#"
     }
   },
   {
     "name": "Shoezz",
-    "desc": "Flipkart, YouTube, Instagram, Sololearn web UI clones using tailwindCSS.",
+    "desc": "Copyright By Raj Kumar",
     "image": "shoezz",
     "category": "commercial shoes",
     "links": {
-      "view": "https://github.com/jigar-sable/web-ui-clones",
-      "code": "https://github.com/jigar-sable/web-ui-clones"
+      "view": "https://raj03kumar.github.io/shoezz/",
+      "code": "#"
     }
   },
   {
     "name": "Steel City Login Page",
-    "desc": "Crypto Tracker built using ReactJS and Chakra UI. Supports dark mode. API used coingecko.",
+    "desc": "Copyright By Raj Kumar",
     "image": "steelcitylogin",
     "category": "agency",
     "links": {
-      "view": "https://crypto-tracker-react-project.netlify.app/",
-      "code": "https://github.com/jigar-sable/React-Projects/tree/main/crypto-tracker"
+      "view": "https://raj03kumar.github.io/signup-page/",
+      "code": "#"
     }
   },
   {
     "name": "Travellers Community",
-    "desc": "Hulu website built using NextJS and tailwindCSS. API used TMDB, deployed on vercel.",
+    "desc": "Copyright By Raj Kumar",
     "image": "travellerscommunity",
     "category": "nature",
     "links": {
-      "view": "https://hulu-clone-jigar-sable.vercel.app/",
-      "code": "https://github.com/jigar-sable/React-Projects/tree/main/hulu-clone"
+      "view": "https://raj03kumar.github.io/travellers-community/",
+      "code": "#"
     }
   },
   {
     "name": "Canada Travel",
-    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "desc": "Copyright By Raj Kumar",
     "image": "canadatravel",
     "category": "nature",
     "links": {
-      "view": "#",
-      "code": "https://github.com/jigar-sable/Portfolio-Website"
+      "view": "https://raj03kumar.github.io/canada-travel/",
+      "code": "#"
     }
   },
   {
     "name": "Temperature Convertor",
-    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
+    "desc": "Copyright By Raj Kumar",
     "image": "tempconv",
     "category": "webApps basicweb",
     "links": {
-      "view": "https://reactjsprojects.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/React-Projects"
+      "view": "https://raj03kumar.github.io/temp-converter/",
+      "code": "#"
     }
   },
   {
     "name": "Contact Form",
-    "desc": "Simple landing page website built using HTML, CSS, JavaScript and some JavaScript Libraries.",
+    "desc": "Copyright By Raj Kumar",
     "image": "contactform",
     "category": "portfolio",
     "links": {
-      "view": "https://composey.netlify.app/",
-      "code": "https://github.com/jigar-sable/LGMVIP-WebDev"
+      "view": "https://raj03kumar.github.io/contact-form/",
+      "code": "#"
     }
   },
   {
     "name": "Music Player App",
-    "desc": "It's an android app which uses web view component for displaying content. This app provides many different features.",
+    "desc": "Copyright By Raj Kumar",
     "image": "musicplayer",
     "category": "webApps",
     "links": {
-      "view": "https://github.com/jigar-sable/Android-Webview#webapp--android-webview-app",
-      "code": "https://github.com/jigar-sable/Android-Webview"
+      "view": "https://raj03kumar.github.io/music-player/",
+      "code": "#"
     }
   },
   {
     "name": "Orca Orange Drinks",
-    "desc": "Basic Banking System based on PHP and MySQL database. Made with HTML, CSS, JavaScript and backend with PHP.",
+    "desc": "Copyright By Raj Kumar",
     "image": "orcaorange",
     "category": "commercial",
     "links": {
-      "view": "https://tsfbank.rf.gd",
-      "code": "https://github.com/jigar-sable/TSF-Bank"
+      "view": "https://raj03kumar.github.io/Orca-orange/",
+      "code": "#"
     }
   },
   {
     "name": "Bootstrap Portfolio",
-    "desc": "Portfolio built using HTML, CSS, Bootstrap, SASS and JavaScript. Customized Bootstrap using SCSS.",
+    "desc": "Copyright By Raj Kumar",
     "image": "resumewebsitebootstrap",
     "category": "portfolio",
     "links": {
-      "view": "#",
+      "view": "https://raj03kumar.github.io/rk-resume-portfolio-website/",
       "code": "#"
     }
   },
   {
     "name": "Digital Clock",
-    "desc": "Basic website template built using HTML and Bootstrap.",
+    "desc": "Copyright By Raj Kumar",
     "image": "digitalclock",
     "category": "webApps",
     "links": {
-      "view": "#",
+      "view": "https://raj03kumar.github.io/digital-clock/",
       "code": "#"
     }
   },
   {
     "name": "Go-Boost Agency Website",
-    "desc": "Basic food website landing page built using HTML, CSS and JavaScript.",
+    "desc": "Copyright By Raj Kumar",
     "image": "goboost",
     "category": "agency",
     "links": {
-      "view": "#",
+      "view": "https://raj03kumar.github.io/goboost/",
       "code": "#"
     }
   },
   {
     "name": "New York Parallax Website",
-    "desc": "Basic food website landing page built using HTML, CSS, SASS, Bootstrap and jQuery.",
+    "desc": "Copyright By Raj Kumar",
     "image": "newyork",
     "category": "basicweb",
     "links": {
-      "view": "#",
+      "view": "https://raj03kumar.github.io/New-York/",
       "code": "#"
     }
   },
   {
     "name": "FAQ Search",
-    "desc": "It's a web based chat app made using popular javaScript library Socket IO. Allows multiple users to connect.",
+    "desc": "Copyright By Raj Kumar",
     "image": "filtersearch",
     "category": "basicweb webApps",
     "links": {
-      "view": "https://github.com/jigar-sable/WebChat#webchat",
-      "code": "https://github.com/jigar-sable/WebChat"
+      "view": "https://raj03kumar.github.io/filter-search/",
+      "code": "#"
     }
   },
   {
     "name": "Profile Card",
-    "desc": "It's an android app which uses SQLite to store user accounts data. It provides feature to simply transact amount.",
+    "desc": "Copyright By Raj Kumar",
     "image": "profilecard",
     "category": "portfolio",
     "links": {
-      "view": "https://github.com/jigar-sable/Basic_Banking_App#basic-banking-app",
-      "code": "https://github.com/jigar-sable/Basic_Banking_App"
+      "view": "https://raj03kumar.github.io/profile-card/",
+      "code": "#"
     }
   },
   {
     "name": "RK Agency",
-    "desc": "It's an android app which uses SQLite to store user accounts data. It provides feature to simply transact amount.",
+    "desc": "Copyright By Raj Kumar",
     "image": "rkagency",
     "category": "agency",
     "links": {
-      "view": "https://github.com/jigar-sable/Basic_Banking_App#basic-banking-app",
-      "code": "https://github.com/jigar-sable/Basic_Banking_App"
+      "view": "https://raj03kumar.github.io/sidebar/",
+      "code": "#"
     }
   },
   {
     "name": "My Gallery",
-    "desc": "It's an android app which uses SQLite to store user accounts data. It provides feature to simply transact amount.",
+    "desc": "Copyright By Raj Kumar",
     "image": "mygallery",
-    "category": "nature",
+    "category": "nature basicweb",
     "links": {
-      "view": "https://github.com/jigar-sable/Basic_Banking_App#basic-banking-app",
-      "code": "https://github.com/jigar-sable/Basic_Banking_App"
+      "view": "https://raj03kumar.github.io/my-gallery/",
+      "code": "#"
     }
   },
   {
     "name": "TinDog",
-    "desc": "It's an android app which uses SQLite to store user accounts data. It provides feature to simply transact amount.",
+    "desc": "Copyright By Raj Kumar",
     "image": "tindog",
     "category": "nature",
     "links": {
-      "view": "https://github.com/jigar-sable/Basic_Banking_App#basic-banking-app",
-      "code": "https://github.com/jigar-sable/Basic_Banking_App"
+      "view": "https://raj03kumar.github.io/tindog/",
+      "code": "#"
     }
   },
   {
     "name": "Pine Forest",
-    "desc": "It's an android app which uses SQLite to store user accounts data. It provides feature to simply transact amount.",
+    "desc": "Copyright By Raj Kumar",
     "image": "pineforest",
     "category": "nature",
     "links": {
-      "view": "https://github.com/jigar-sable/Basic_Banking_App#basic-banking-app",
-      "code": "https://github.com/jigar-sable/Basic_Banking_App"
+      "view": "https://raj03kumar.github.io/pine-forest/",
+      "code": "#"
     }
   },
   {
     "name": "Nike Shoes",
-    "desc": "It's an android app which uses SQLite to store user accounts data. It provides feature to simply transact amount.",
+    "desc": "Copyright By Raj Kumar",
     "image": "nike shoes",
     "category": "commercial shoes",
     "links": {
-      "view": "https://github.com/jigar-sable/Basic_Banking_App#basic-banking-app",
-      "code": "https://github.com/jigar-sable/Basic_Banking_App"
+      "view": "https://raj03kumar.github.io/Nike-store/",
+      "code": "#"
     }
   }
 ]
