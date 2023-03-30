@@ -3,7 +3,7 @@
     "name": "Audi R8",
     "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
     "image": "audiR8",
-    "category": "android",
+    "category": "commercial",
     "links": {
       "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
       "code": "https://github.com/jigar-sable/notystack-android"
@@ -13,7 +13,7 @@
     "name": "Clime Weather",
     "desc": "All in one SPPU Engineering resources. Built using Java, XML and Firebase.",
     "image": "climeweather",
-    "category": "android",
+    "category": "nature",
     "links": {
       "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
       "code": "https://github.com/jigar-sable/sppu-prep-android"
@@ -23,7 +23,7 @@
     "name": "Coffee Shop",
     "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
     "image": "coffeeshop",
-    "category": "android",
+    "category": "commercial",
     "links": {
       "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
       "code": "https://github.com/jigar-sable/newsbox-android"
@@ -33,7 +33,7 @@
     "name": "NFT MARKETPLACE",
     "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
     "image": "nftmarket",
-    "category": "android",
+    "category": "commercial",
     "links": {
       "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
       "code": "https://github.com/jigar-sable/weatherly-android"
@@ -43,7 +43,7 @@
     "name": "Real Estate Website",
     "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
     "image": "realestate",
-    "category": "mern",
+    "category": "commercial agency",
     "links": {
       "view": "https://instagramernstack.herokuapp.com/",
       "code": "https://github.com/jigar-sable/instagram-mern"
@@ -53,7 +53,7 @@
     "name": "StarWars Store",
     "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
     "image": "starwars",
-    "category": "mern",
+    "category": "commercial",
     "links": {
       "view": "https://flipkartwebs.herokuapp.com/",
       "code": "https://github.com/jigar-sable/flipkart-mern"
@@ -63,7 +63,7 @@
     "name": "WestJet Airlines",
     "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
     "image": "westjet",
-    "category": "mern",
+    "category": "commercial",
     "links": {
       "view": "https://resumegenx.netlify.app/",
       "code": "https://github.com/jigar-sable/resumegen"
@@ -73,7 +73,7 @@
     "name": "Temperature Convertor",
     "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
     "image": "tempconv",
-    "category": "mern",
+    "category": "webApps basicweb",
     "links": {
       "view": "https://reactjsprojects.herokuapp.com/",
       "code": "https://github.com/jigar-sable/React-Projects"
@@ -83,7 +83,7 @@
     "name": "Portfolio Website",
     "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
     "image": "rkdribbleportfolio",
-    "category": "lamp",
+    "category": "portfolio",
     "links": {
       "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP",
       "code": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
@@ -93,7 +93,7 @@
     "name": "Nike Store",
     "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
     "image": "nikestore",
-    "category": "mern",
+    "category": "commercial shoes",
     "links": {
       "view": "https://jigar-sable.github.io/JavaScript-Projects",
       "code": "https://github.com/jigar-sable/JavaScript-Projects"
@@ -103,7 +103,7 @@
     "name": "Shoezz",
     "desc": "Flipkart, YouTube, Instagram, Sololearn web UI clones using tailwindCSS.",
     "image": "shoezz",
-    "category": "mern",
+    "category": "commercial shoes",
     "links": {
       "view": "https://github.com/jigar-sable/web-ui-clones",
       "code": "https://github.com/jigar-sable/web-ui-clones"
@@ -113,7 +113,7 @@
     "name": "Steel City Login Page",
     "desc": "Crypto Tracker built using ReactJS and Chakra UI. Supports dark mode. API used coingecko.",
     "image": "steelcitylogin",
-    "category": "mern",
+    "category": "agency",
     "links": {
       "view": "https://crypto-tracker-react-project.netlify.app/",
       "code": "https://github.com/jigar-sable/React-Projects/tree/main/crypto-tracker"
@@ -123,7 +123,7 @@
     "name": "Travellers Community",
     "desc": "Hulu website built using NextJS and tailwindCSS. API used TMDB, deployed on vercel.",
     "image": "travellerscommunity",
-    "category": "mern",
+    "category": "nature",
     "links": {
       "view": "https://hulu-clone-jigar-sable.vercel.app/",
       "code": "https://github.com/jigar-sable/React-Projects/tree/main/hulu-clone"
@@ -133,7 +133,7 @@
     "name": "Canada Travel",
     "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
     "image": "canadatravel",
-    "category": "basicweb",
+    "category": "nature",
     "links": {
       "view": "#",
       "code": "https://github.com/jigar-sable/Portfolio-Website"
@@ -143,7 +143,7 @@
     "name": "Contact Form",
     "desc": "Simple landing page website built using HTML, CSS, JavaScript and some JavaScript Libraries.",
     "image": "contactform",
-    "category": "basicweb",
+    "category": "portfolio",
     "links": {
       "view": "https://composey.netlify.app/",
       "code": "https://github.com/jigar-sable/LGMVIP-WebDev"
@@ -153,7 +153,7 @@
     "name": "Music Player App",
     "desc": "It's an android app which uses web view component for displaying content. This app provides many different features.",
     "image": "musicplayer",
-    "category": "android",
+    "category": "webApps",
     "links": {
       "view": "https://github.com/jigar-sable/Android-Webview#webapp--android-webview-app",
       "code": "https://github.com/jigar-sable/Android-Webview"
@@ -163,7 +163,7 @@
     "name": "Orca Orange Drinks",
     "desc": "Basic Banking System based on PHP and MySQL database. Made with HTML, CSS, JavaScript and backend with PHP.",
     "image": "orcaorange",
-    "category": "lamp",
+    "category": "commercial",
     "links": {
       "view": "https://tsfbank.rf.gd",
       "code": "https://github.com/jigar-sable/TSF-Bank"
@@ -173,7 +173,7 @@
     "name": "Bootstrap Portfolio",
     "desc": "Portfolio built using HTML, CSS, Bootstrap, SASS and JavaScript. Customized Bootstrap using SCSS.",
     "image": "resumewebsitebootstrap",
-    "category": "basicweb",
+    "category": "portfolio",
     "links": {
       "view": "#",
       "code": "#"
@@ -183,7 +183,7 @@
     "name": "Digital Clock",
     "desc": "Basic website template built using HTML and Bootstrap.",
     "image": "digitalclock",
-    "category": "basicweb",
+    "category": "webApps",
     "links": {
       "view": "#",
       "code": "#"
@@ -193,7 +193,7 @@
     "name": "Go-Boost Agency Website",
     "desc": "Basic food website landing page built using HTML, CSS and JavaScript.",
     "image": "goboost",
-    "category": "basicweb",
+    "category": "agency",
     "links": {
       "view": "#",
       "code": "#"
@@ -213,7 +213,7 @@
     "name": "FAQ Search",
     "desc": "It's a web based chat app made using popular javaScript library Socket IO. Allows multiple users to connect.",
     "image": "filtersearch",
-    "category": "mern",
+    "category": "basicweb webApps",
     "links": {
       "view": "https://github.com/jigar-sable/WebChat#webchat",
       "code": "https://github.com/jigar-sable/WebChat"
@@ -223,7 +223,7 @@
     "name": "Profile Card",
     "desc": "It's an android app which uses SQLite to store user accounts data. It provides feature to simply transact amount.",
     "image": "profilecard",
-    "category": "android",
+    "category": "portfolio",
     "links": {
       "view": "https://github.com/jigar-sable/Basic_Banking_App#basic-banking-app",
       "code": "https://github.com/jigar-sable/Basic_Banking_App"
@@ -233,7 +233,7 @@
     "name": "RK Agency",
     "desc": "It's an android app which uses SQLite to store user accounts data. It provides feature to simply transact amount.",
     "image": "rkagency",
-    "category": "android",
+    "category": "agency",
     "links": {
       "view": "https://github.com/jigar-sable/Basic_Banking_App#basic-banking-app",
       "code": "https://github.com/jigar-sable/Basic_Banking_App"
@@ -243,7 +243,7 @@
     "name": "My Gallery",
     "desc": "It's an android app which uses SQLite to store user accounts data. It provides feature to simply transact amount.",
     "image": "mygallery",
-    "category": "android",
+    "category": "nature",
     "links": {
       "view": "https://github.com/jigar-sable/Basic_Banking_App#basic-banking-app",
       "code": "https://github.com/jigar-sable/Basic_Banking_App"
@@ -253,7 +253,7 @@
     "name": "TinDog",
     "desc": "It's an android app which uses SQLite to store user accounts data. It provides feature to simply transact amount.",
     "image": "tindog",
-    "category": "android",
+    "category": "nature",
     "links": {
       "view": "https://github.com/jigar-sable/Basic_Banking_App#basic-banking-app",
       "code": "https://github.com/jigar-sable/Basic_Banking_App"
@@ -263,7 +263,7 @@
     "name": "Pine Forest",
     "desc": "It's an android app which uses SQLite to store user accounts data. It provides feature to simply transact amount.",
     "image": "pineforest",
-    "category": "android",
+    "category": "nature",
     "links": {
       "view": "https://github.com/jigar-sable/Basic_Banking_App#basic-banking-app",
       "code": "https://github.com/jigar-sable/Basic_Banking_App"
@@ -273,7 +273,7 @@
     "name": "Nike Shoes",
     "desc": "It's an android app which uses SQLite to store user accounts data. It provides feature to simply transact amount.",
     "image": "nike shoes",
-    "category": "android",
+    "category": "commercial shoes",
     "links": {
       "view": "https://github.com/jigar-sable/Basic_Banking_App#basic-banking-app",
       "code": "https://github.com/jigar-sable/Basic_Banking_App"
