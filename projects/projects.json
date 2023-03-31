@@ -1,7 +1,7 @@
 [
   {
     "name": "Audi R8",
-    "desc": "© Raj Kumar",
+    "desc": "Responsive Frontend website exhibiting Audi R8 features with cool CSS animations and JavaScript.",
     "image": "audiR8",
     "category": "commercial",
     "links": {
@@ -11,7 +11,7 @@
   },
   {
     "name": "Clime Weather",
-    "desc": "© Raj Kumar",
+    "desc": "clime-Weather website implemented using weatherapi for fetching data and provides realtime weather details to users with soft animation.",
     "image": "climeweather",
     "category": "nature dribble",
     "links": {
@@ -21,7 +21,7 @@
   },
   {
     "name": "Coffee Shop",
-    "desc": "© Raj Kumar",
+    "desc": "Cold Coffee Frontend Website with cool features implemented using CSS, JavaScript, AOS and SwiperJs",
     "image": "coffeeshop",
     "category": "commercial dribble",
     "links": {
@@ -31,7 +31,7 @@
   },
   {
     "name": "NFT MARKETPLACE",
-    "desc": "© Raj Kumar",
+    "desc": "NFT Marketplace helps us explore the web3 with numerous artists and artworks. Implemented with HTML, CSS, JavaScript",
     "image": "nftmarket",
     "category": "commercial dribble",
     "links": {
@@ -41,7 +41,7 @@
   },
   {
     "name": "Real Estate Website",
-    "desc": "© Raj Kumar",
+    "desc": "Frontend Website using Bootstrap for finding real-estate prices with machine learning backend implementation",
     "image": "realestate",
     "category": "commercial agency",
     "links": {
@@ -51,7 +51,7 @@
   },
   {
     "name": "StarWars Store",
-    "desc": "© Raj Kumar",
+    "desc": "Website Store for Starwars fanclub exhibiting weapons with their features and durability. Vanilla CSS and JavaScript",
     "image": "starwars",
     "category": "commercial dribble",
     "links": {
@@ -61,7 +61,7 @@
   },
   {
     "name": "WestJet Airlines",
-    "desc": "© Raj Kumar",
+    "desc": "Airline Frontend website for flight simulation and cockpit training. Implemented using animateCSS, wowJs, swiperJs",
     "image": "westjet",
     "category": "commercial dribble",
     "links": {
@@ -72,7 +72,7 @@
   
   {
     "name": "Portfolio Website",
-    "desc": "© Raj Kumar",
+    "desc": "Travel Portfolio website exhibiting work, active and travel collection with side navbar and cool auto-animations",
     "image": "rkdribbleportfolio",
     "category": "portfolio dribble",
     "links": {
@@ -82,7 +82,7 @@
   },
   {
     "name": "Nike Store",
-    "desc": "© Raj Kumar",
+    "desc": "Frontend Nike online store with cool features implemented using HTML, CSS, JavaScript",
     "image": "nikestore",
     "category": "commercial shoes",
     "links": {
@@ -92,7 +92,7 @@
   },
   {
     "name": "Shoezz",
-    "desc": "© Raj Kumar",
+    "desc": "Advanced Shoe Website with drop animations and color change features implemented with Vanilla CSS and JavaScript",
     "image": "shoezz",
     "category": "commercial shoes",
     "links": {
@@ -102,7 +102,7 @@
   },
   {
     "name": "Steel City Login Page",
-    "desc": "© Raj Kumar",
+    "desc": "Responsive Login Page Website with video background and buttons implemented using Vanilla Css",
     "image": "steelcitylogin",
     "category": "agency",
     "links": {
@@ -112,7 +112,7 @@
   },
   {
     "name": "Travellers Community",
-    "desc": "© Raj Kumar",
+    "desc": "Responsive Frontend Travellers Community website made with CSS-grid and JavaScript.",
     "image": "travellerscommunity",
     "category": "nature dribble",
     "links": {
@@ -122,7 +122,7 @@
   },
   {
     "name": "Canada Travel",
-    "desc": "© Raj Kumar",
+    "desc": "Split-screen Frontend Blog website with video background and cover animations from Canada. HTML, CSS, JavaScript",
     "image": "canadatravel",
     "category": "nature dribble",
     "links": {
@@ -132,7 +132,7 @@
   },
   {
     "name": "Temperature Convertor",
-    "desc": "© Raj Kumar",
+    "desc": "Basic frontend website for converting temperatures to different standard units. HTML, CSS, JavaScript",
     "image": "tempconv",
     "category": "webApps basicweb",
     "links": {
@@ -142,7 +142,7 @@
   },
   {
     "name": "Contact Form",
-    "desc": "© Raj Kumar",
+    "desc": "Contact Form for receiving messages from unknown person visiting website. Implemented using EmailJs API and JavaScript",
     "image": "contactform",
     "category": "portfolio",
     "links": {
@@ -152,7 +152,7 @@
   },
   {
     "name": "Music Player App",
-    "desc": "© Raj Kumar",
+    "desc": "Website for playing music implemented using Vanilla CSS and JavaScript. Buttons and sliders are self designed using CSS",
     "image": "musicplayer",
     "category": "webApps",
     "links": {
@@ -162,7 +162,7 @@
   },
   {
     "name": "Orca Orange Drinks",
-    "desc": "© Raj Kumar",
+    "desc": "Orange drink website with cool animation and Light Dark mode features and color change. HTML, CSS, JavaScript.",
     "image": "orcaorange",
     "category": "commercial dribble",
     "links": {
@@ -172,7 +172,7 @@
   },
   {
     "name": "Bootstrap Portfolio",
-    "desc": "© Raj Kumar",
+    "desc": "Portfolio website using bootstrap for showing projects and achievements. HTML, Bootstrap CSS and JS",
     "image": "resumewebsitebootstrap",
     "category": "portfolio",
     "links": {
@@ -182,7 +182,7 @@
   },
   {
     "name": "Digital Clock",
-    "desc": "© Raj Kumar",
+    "desc": "Basic frontend website for showing current time with Glassmorphism and Big Ben on back. HTML, CSS, JavaScript",
     "image": "digitalclock",
     "category": "webApps",
     "links": {
@@ -192,7 +192,7 @@
   },
   {
     "name": "Go-Boost Agency Website",
-    "desc": "© Raj Kumar",
+    "desc": "Frontend Digital Agency landing page with cool animations and screen-counter. HTML, CSS, JavaScript",
     "image": "goboost",
     "category": "agency dribble",
     "links": {
@@ -202,7 +202,7 @@
   },
   {
     "name": "New York Parallax Website",
-    "desc": "© Raj Kumar",
+    "desc": "Basic frontend website showing parallax scrolling effect with Empire State Building. HTML, CSS",
     "image": "newyork",
     "category": "basicweb",
     "links": {
@@ -212,7 +212,7 @@
   },
   {
     "name": "FAQ Search",
-    "desc": "© Raj Kumar",
+    "desc": "FAQ website for filter searching implemented using JavaScript.",
     "image": "filtersearch",
     "category": "basicweb webApps",
     "links": {
@@ -222,7 +222,7 @@
   },
   {
     "name": "Profile Card",
-    "desc": "© Raj Kumar",
+    "desc": "© Raj Kumar. Personal Profile Card for short introduction about myself. With custom scrollbar, ParticleJs and smooth animations",
     "image": "profilecard",
     "category": "portfolio",
     "links": {
@@ -232,7 +232,7 @@
   },
   {
     "name": "RK Agency",
-    "desc": "© Raj Kumar",
+    "desc": "Agency website featuring sidebar with notifications. Implemented using HTML, CSS, JavaScript",
     "image": "rkagency",
     "category": "agency dribble",
     "links": {
@@ -242,7 +242,7 @@
   },
   {
     "name": "My Gallery",
-    "desc": "© Raj Kumar",
+    "desc": "Gallery with custom category filter for images. HTML, CSS, JavaScript.",
     "image": "mygallery",
     "category": "nature basicweb",
     "links": {
@@ -252,7 +252,7 @@
   },
   {
     "name": "TinDog",
-    "desc": "© Raj Kumar",
+    "desc": "Frontend website for Pet dating with testimonials implemented using Bootstrap CSS and JavaScript Library",
     "image": "tindog",
     "category": "nature dribble",
     "links": {
@@ -262,7 +262,7 @@
   },
   {
     "name": "Pine Forest",
-    "desc": "© Raj Kumar",
+    "desc": "Forest Blog website with CSS-grid implementation and image change using CSS",
     "image": "pineforest",
     "category": "nature",
     "links": {
@@ -272,7 +272,7 @@
   },
   {
     "name": "Nike Shoes",
-    "desc": "© Raj Kumar",
+    "desc": "Nike Shoe showcase and beautiful experience using tilt-js. Implemented using HTML, CSS, JavaScript and tiltJS.",
     "image": "nike shoes",
     "category": "commercial shoes",
     "links": {
