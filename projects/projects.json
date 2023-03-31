@@ -69,7 +69,6 @@
       "design": "https://dribbble.com/shots/3776521-Turkish-Airlines-FTC-Web-Design-Remastered"
     }
   },
-  
   {
     "name": "Portfolio Website",
     "desc": "Travel Portfolio website exhibiting work, active and travel collection with side navbar and cool auto-animations",
@@ -81,13 +80,13 @@
     }
   },
   {
-    "name": "Nike Store",
-    "desc": "Frontend Nike online store with cool features implemented using HTML, CSS, JavaScript",
-    "image": "nikestore",
-    "category": "commercial shoes",
+    "name": "Orca Orange Drinks",
+    "desc": "Orange drink website with cool animation and Light Dark mode features and color change. HTML, CSS, JavaScript.",
+    "image": "orcaorange",
+    "category": "commercial dribble",
     "links": {
-      "view": "https://raj03kumar.github.io/nike/",
-      "design": "#"
+      "view": "https://raj03kumar.github.io/Orca-orange/",
+      "design": "https://dribbble.com/shots/6442400-The-Blvck-Tumbler"
     }
   },
   {
@@ -97,6 +96,36 @@
     "category": "commercial shoes",
     "links": {
       "view": "https://raj03kumar.github.io/shoezz/",
+      "design": "#"
+    }
+  },
+  {
+    "name": "Travellers Community",
+    "desc": "Responsive Frontend Travellers Community website made with CSS-grid and JavaScript.",
+    "image": "travellerscommunity",
+    "category": "nature dribble",
+    "links": {
+      "view": "https://raj03kumar.github.io/travellers-community/",
+      "design": "https://dribbble.com/shots/2074753-Push-Animation/attachments/372180"
+    }
+  },
+  {
+    "name": "Pine Forest",
+    "desc": "Forest Blog website with CSS-grid implementation and image change using CSS",
+    "image": "pineforest",
+    "category": "nature",
+    "links": {
+      "view": "https://raj03kumar.github.io/pine-forest/",
+      "design": "https://in.pinterest.com/pin/855895104183569244/"
+    }
+  },
+  {
+    "name": "Nike Shoes",
+    "desc": "Nike Shoe showcase and beautiful experience using tilt-js. Implemented using HTML, CSS, JavaScript and tiltJS.",
+    "image": "nike shoes",
+    "category": "commercial shoes",
+    "links": {
+      "view": "https://raj03kumar.github.io/Nike-store/",
       "design": "#"
     }
   },
@@ -111,23 +140,13 @@
     }
   },
   {
-    "name": "Travellers Community",
-    "desc": "Responsive Frontend Travellers Community website made with CSS-grid and JavaScript.",
-    "image": "travellerscommunity",
-    "category": "nature dribble",
+    "name": "Contact Form",
+    "desc": "Contact Form for receiving messages from unknown person visiting website. Implemented using EmailJs API and JavaScript",
+    "image": "contactform",
+    "category": "portfolio",
     "links": {
-      "view": "https://raj03kumar.github.io/travellers-community/",
-      "design": "https://dribbble.com/shots/2074753-Push-Animation/attachments/372180"
-    }
-  },
-  {
-    "name": "Canada Travel",
-    "desc": "Split-screen Frontend Blog website with video background and cover animations from Canada. HTML, CSS, JavaScript",
-    "image": "canadatravel",
-    "category": "nature dribble",
-    "links": {
-      "view": "https://raj03kumar.github.io/canada-travel/",
-      "design": "https://dribbble.com/shots/3263059-Split-Screen-Navigation-Concept"
+      "view": "https://raj03kumar.github.io/contact-form/",
+      "design": "#"
     }
   },
   {
@@ -141,12 +160,12 @@
     }
   },
   {
-    "name": "Contact Form",
-    "desc": "Contact Form for receiving messages from unknown person visiting website. Implemented using EmailJs API and JavaScript",
-    "image": "contactform",
-    "category": "portfolio",
+    "name": "Nike Store",
+    "desc": "Frontend Nike online store with cool features implemented using HTML, CSS, JavaScript",
+    "image": "nikestore",
+    "category": "commercial shoes",
     "links": {
-      "view": "https://raj03kumar.github.io/contact-form/",
+      "view": "https://raj03kumar.github.io/nike/",
       "design": "#"
     }
   },
@@ -161,23 +180,13 @@
     }
   },
   {
-    "name": "Orca Orange Drinks",
-    "desc": "Orange drink website with cool animation and Light Dark mode features and color change. HTML, CSS, JavaScript.",
-    "image": "orcaorange",
-    "category": "commercial dribble",
+    "name": "Canada Travel",
+    "desc": "Split-screen Frontend Blog website with video background and cover animations from Canada. HTML, CSS, JavaScript",
+    "image": "canadatravel",
+    "category": "nature dribble",
     "links": {
-      "view": "https://raj03kumar.github.io/Orca-orange/",
-      "design": "https://dribbble.com/shots/6442400-The-Blvck-Tumbler"
-    }
-  },
-  {
-    "name": "Bootstrap Portfolio",
-    "desc": "Portfolio website using bootstrap for showing projects and achievements. HTML, Bootstrap CSS and JS",
-    "image": "resumewebsitebootstrap",
-    "category": "portfolio",
-    "links": {
-      "view": "https://raj03kumar.github.io/rk-resume-portfolio-website/",
-      "design": "#"
+      "view": "https://raj03kumar.github.io/canada-travel/",
+      "design": "https://dribbble.com/shots/3263059-Split-Screen-Navigation-Concept"
     }
   },
   {
@@ -241,16 +250,6 @@
     }
   },
   {
-    "name": "My Gallery",
-    "desc": "Gallery with custom category filter for images. HTML, CSS, JavaScript.",
-    "image": "mygallery",
-    "category": "nature basicweb",
-    "links": {
-      "view": "https://raj03kumar.github.io/filter-gallery/",
-      "design": "#"
-    }
-  },
-  {
     "name": "TinDog",
     "desc": "Frontend website for Pet dating with testimonials implemented using Bootstrap CSS and JavaScript Library",
     "image": "tindog",
@@ -261,22 +260,22 @@
     }
   },
   {
-    "name": "Pine Forest",
-    "desc": "Forest Blog website with CSS-grid implementation and image change using CSS",
-    "image": "pineforest",
-    "category": "nature",
+    "name": "Bootstrap Portfolio",
+    "desc": "Portfolio website using bootstrap for showing projects and achievements. HTML, Bootstrap CSS and JS",
+    "image": "resumewebsitebootstrap",
+    "category": "portfolio",
     "links": {
-      "view": "https://raj03kumar.github.io/pine-forest/",
-      "design": "https://in.pinterest.com/pin/855895104183569244/"
+      "view": "https://raj03kumar.github.io/rk-resume-portfolio-website/",
+      "design": "#"
     }
   },
   {
-    "name": "Nike Shoes",
-    "desc": "Nike Shoe showcase and beautiful experience using tilt-js. Implemented using HTML, CSS, JavaScript and tiltJS.",
-    "image": "nike shoes",
-    "category": "commercial shoes",
+    "name": "My Gallery",
+    "desc": "Gallery with custom category filter for images. HTML, CSS, JavaScript.",
+    "image": "mygallery",
+    "category": "nature basicweb",
     "links": {
-      "view": "https://raj03kumar.github.io/Nike-store/",
+      "view": "https://raj03kumar.github.io/filter-gallery/",
       "design": "#"
     }
   }
