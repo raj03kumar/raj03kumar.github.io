@@ -16,15 +16,12 @@ https://drive.google.com/file/d/1Jk0B3oVU21VBPuJVVmL72qwDV-h7ueUE/view?usp=share
 Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 
 ## 📌 Sneak Peek of Main Page 🙈 :
-![mockup720](https://user-images.githubusercontent.com/64949957/124947013-1f682080-e02d-11eb-977e-df3bbd4fa838.png)
-![ss](https://user-images.githubusercontent.com/64949957/159113640-d92665a8-f614-42b3-8456-66b97fc2e651.png)
+![image](https://user-images.githubusercontent.com/92293392/233762482-921298df-ae90-4aa9-8b02-f0d5d0d7da05.png)
+![image](https://user-images.githubusercontent.com/92293392/233762499-1162d13f-b7aa-4979-9d0a-acf7b08ea78d.png)
 
 <h2>📬 Contact</h2>
-
 If you want to contact me, you can reach me through below handles.
 
 &nbsp;&nbsp;<a href="https://www.linkedin.com/in/rajkumar1553/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
 
 © 2022 Raj Kumar
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
