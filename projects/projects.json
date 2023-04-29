@@ -130,6 +130,16 @@
     }
   },
   {
+    "name": "SkillUp",
+    "desc": "Website has some cool scrolling and shadow features. Creative Design.",
+    "image": "skillup",
+    "category": "commercial agency dribble",
+    "links": {
+      "view": "https://raj03kumar.github.io/SkillUp/",
+      "design": "https://dribbble.com/shots/6576034-Wizeline-Marketing-Website-Design"
+    }
+  },
+  {
     "name": "Awward Agency",
     "desc": "Frontend Agency wesite comes with all features agency such as about, Services, blog post, team, work, price package and contact info",
     "image": "awward",
@@ -186,6 +196,16 @@
     "category": "webApps basicweb",
     "links": {
       "view": "https://raj03kumar.github.io/temp-converter/",
+      "design": "#"
+    }
+  },
+  {
+    "name": "Calendar",
+    "desc": "Basic JavaScript Calendar App. HTML, CSS, JavaScript",
+    "image": "calendar",
+    "category": "webApps basicweb",
+    "links": {
+      "view": "https://raj03kumar.github.io/calendar/",
       "design": "#"
     }
   },
