@@ -48,6 +48,14 @@
         "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
     },
     {
+        "name": "MaterialUI",
+        "icon": "https://img.icons8.com/color/48/000000/material-ui.png"
+    },
+    {
+        "name": "Firebase",
+        "icon": "https://img.icons8.com/fluency/48/000000/firebase.png"
+    },
+    {
         "name": "TypeScript",
         "icon": "https://img.icons8.com/fluency/48/null/typescript--v1.png"
     },
