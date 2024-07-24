@@ -2,7 +2,7 @@
 Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
 ## Resume
-https://drive.google.com/file/d/1Jk0B3oVU21VBPuJVVmL72qwDV-h7ueUE/view?usp=share_link
+https://tinyurl.com/raj1553
 ---
 <a href="https://raj03kumar.github.io/" target="_blank">**Visit Now** 🚀</a>
 
