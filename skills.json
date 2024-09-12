@@ -40,10 +40,6 @@
         "icon": "https://img.icons8.com/color/48/null/tailwindcss.png"
     },
     {
-        "name": "Sass",
-        "icon": "https://img.icons8.com/color/48/000000/sass.png"
-    },
-    {
         "name": "ReactJS",
         "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
     },
@@ -68,28 +64,12 @@
         "icon": "https://img.icons8.com/color/48/null/npm.png"
     },
     {
-        "name": "TypeScript",
-        "icon": "https://img.icons8.com/fluency/48/null/typescript--v1.png"
-    },
-    {
         "name": "MongoDB",
         "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
     },
     {
         "name": "MySQL",
         "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
-    },
-    {
-        "name": "PostgreSQL",
-        "icon": "https://img.icons8.com/color/48/000000/postgreesql.png"
-    },
-    {
-        "name": "Kotlin",
-        "icon": "https://img.icons8.com/color/48/000000/kotlin.png"
-    },
-    {
-        "name": "Flutter",
-        "icon": "https://img.icons8.com/color/48/null/flutter.png"
     },
     {
         "name": "AWS",
